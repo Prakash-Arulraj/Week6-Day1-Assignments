@@ -5,7 +5,7 @@ import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(
            dryRun = false,
-           features = {"src/test/java/features/MergeLead.feature"},
+           features = {"src/test/java/features/CreateLead.feature,src/test/java/features/EditLead.feature,src/test/java/features/MergeLead.feature"},
            glue = {"stepDefinition"},
            monochrome = true
            )
