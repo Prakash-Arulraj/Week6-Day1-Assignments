@@ -1,4 +1,4 @@
-Feature: Create Lead To Leaftaps Application
+Feature: Merge Lead To Leaftaps Application
 
 Background:
 When Launch Chrome Browser
